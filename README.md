@@ -2,6 +2,7 @@
 - 👀 I’m interested in competitive programming.
 - 🌱 I’m currently learning C++ and Python.
 - 📫 How to reach me:
+- Email: yuemk@outlook.com
 - My Luogu account: [Luogu](https://www.luogu.com.cn/user/370726)
 - My Bilibili account: [Bilibili](https://space.bilibili.com/2140627187)
 
