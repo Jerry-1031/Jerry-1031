@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Jerry-1031. (16)
+- 👋 Hi, I’m [@Jerry-1031](https://github.com/Jerry-1031). (16)
 - 👀 Now learning CS in ShanghaiTech University, undergraduate.
-  - Have some experience in ACM, CTF...
-- 🌱 Mainly using C++ and Python. Interested in LLM/Data Mining.
+  - Have some experience with OI, ACM-ICPC and CTF.
+- 🌱 Mainly using C++ and Python. Interested in LLM(agents), Data Mining, AI4S, Geoscience, etc.
 - 📫 How to reach me:
   - Email: yuemk@outlook.com
-  - QQ: 1415190397 (Suggested!)
-  - [My Bilibili account](https://space.bilibili.com/2140627187)
+  - QQ: 1415190397
+  - [Bilibili](https://space.bilibili.com/2140627187)
   - Welcome to chat with me!
