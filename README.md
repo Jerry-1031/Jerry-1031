@@ -1,8 +1,9 @@
 - 👋 Hi, I’m [@Jerry-1031](https://github.com/Jerry-1031). (16)
-- 👀 Now learning CS in ShanghaiTech University, undergraduate.
+- 👀 Now learning Computer Science in ShanghaiTech University, undergraduate.
   - Have some experience with OI and ACM-ICPC, CTF, Puzzlehunt...
 - 🌱 Mainly using C++ and Python.
 - 🎈 Interested in LLM(agents), Embodied AI, Geoscience, etc.
+- Member of [GeekPie Association](https://github.com/ShanghaitechGeekPie/)
 - 📫 How to reach me:
   - Email: yuemk@outlook.com
   - QQ: 1415190397
@@ -14,5 +15,5 @@
 
 What do I play:
 - Minecraft
-- Music Game lover: [osu!mania](https://osu.ppy.sh/users/28735635) 4k, Dynamix / Dynamite, Phigros...
-- Puzzle game
+- Music Game enthusiast: [osu!mania](https://osu.ppy.sh/users/28735635) 4k, Dynamix / Dynamite, Phigros, maimai DX...
+- Puzzle games
