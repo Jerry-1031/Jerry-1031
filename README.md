@@ -1,4 +1,4 @@
-- 👋 Hi, I’m [@Jerry-1031](https://github.com/Jerry-1031). (16)
+- 👋 Hi, I’m [@Jerry-1031](https://github.com/Jerry-1031). (17)
 - 👀 Now learning Computer Science in ShanghaiTech University, undergraduate.
   - Have some experience with OI and ACM-ICPC, CTF, Puzzlehunt...
 - 🌱 Mainly using C++ and Python.
